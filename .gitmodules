@@ -1,3 +1,4 @@
 [submodule "bin"]
 	path = bin
 	url = https://github.com/psmyth1/headphones.git
+	ignore = dirty
